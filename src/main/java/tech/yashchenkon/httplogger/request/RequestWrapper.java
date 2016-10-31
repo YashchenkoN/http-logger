@@ -1,4 +1,4 @@
-package tech.yashchenkon.request;
+package tech.yashchenkon.httplogger.request;
 
 import org.apache.commons.io.input.TeeInputStream;
 

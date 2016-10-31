@@ -1,6 +1,6 @@
-package tech.yashchenkon.api;
+package tech.yashchenkon.httplogger.api;
 
-import tech.yashchenkon.request.RequestWrapper;
+import tech.yashchenkon.httplogger.request.RequestWrapper;
 
 import java.util.function.Function;
 /**

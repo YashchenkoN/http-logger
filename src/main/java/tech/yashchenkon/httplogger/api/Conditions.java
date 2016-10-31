@@ -1,4 +1,4 @@
-package tech.yashchenkon.api;
+package tech.yashchenkon.httplogger.api;
 
 import javax.servlet.http.HttpServletRequest;
 import java.util.Arrays;

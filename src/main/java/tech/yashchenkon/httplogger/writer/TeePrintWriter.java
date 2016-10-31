@@ -1,4 +1,4 @@
-package tech.yashchenkon.writer;
+package tech.yashchenkon.httplogger.writer;
 
 import java.io.PrintWriter;
 

@@ -1,8 +1,8 @@
-package tech.yashchenkon.filter;
+package tech.yashchenkon.httplogger.filter;
 
 import org.springframework.web.filter.OncePerRequestFilter;
-import tech.yashchenkon.api.LoggingRule;
-import tech.yashchenkon.response.ResponseWrapper;
+import tech.yashchenkon.httplogger.api.LoggingRule;
+import tech.yashchenkon.httplogger.response.ResponseWrapper;
 
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

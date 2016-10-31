@@ -1,4 +1,4 @@
-package tech.yashchenkon.api;
+package tech.yashchenkon.httplogger.api;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

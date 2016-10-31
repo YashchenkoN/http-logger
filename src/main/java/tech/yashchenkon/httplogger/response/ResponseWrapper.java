@@ -1,7 +1,7 @@
-package tech.yashchenkon.response;
+package tech.yashchenkon.httplogger.response;
 
 import org.apache.commons.io.output.TeeOutputStream;
-import tech.yashchenkon.writer.TeePrintWriter;
+import tech.yashchenkon.httplogger.writer.TeePrintWriter;
 
 import javax.servlet.ServletOutputStream;
 import javax.servlet.ServletResponse;

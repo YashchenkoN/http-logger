@@ -1,4 +1,4 @@
-package tech.yashchenkon.api;
+package tech.yashchenkon.httplogger.api;
 
 /**
  * @author Mykola Yashchenko
